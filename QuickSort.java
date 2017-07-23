@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Stack;
 
 /**
- * Author: diwenchen
+ * Author: dc0453
  * Since: 2017/3/10 下午2:50
  * quickSort
  */
