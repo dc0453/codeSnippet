@@ -10,4 +10,5 @@ code for my practice
 | generateContent.php     | 练习php的文件读写等操作，完成utf8->gbk的转换     |
 | KMP.java  | kmp字符串匹配算法  |
 | shellPractice.sh  | shell脚本实践框架  |
+| DomainRegex.java  | 通过正则表达式获取url的域名  |
 |   |   |
