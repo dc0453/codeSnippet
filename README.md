@@ -11,4 +11,5 @@ code for my practice
 | KMP.java  | kmp字符串匹配算法  |
 | shellPractice.sh  | shell脚本实践框架  |
 | DomainRegex.java  | 通过正则表达式获取url的域名  |
+| javaThreadOrderByCPU.sh  | 打印出JVM的所有线程以及按照CPU占比排序  |
 |   |   |
