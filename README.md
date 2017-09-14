@@ -12,4 +12,5 @@ code for my practice
 | shellPractice.sh  | shell脚本实践框架  |
 | DomainRegex.java  | 通过正则表达式获取url的域名  |
 | javaThreadOrderByCPU.sh  | 打印出JVM的所有线程以及按照CPU占比排序  |
+| readme_template.md  | README文件的模板  |
 |   |   |
